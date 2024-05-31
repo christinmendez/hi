@@ -1,0 +1,15 @@
+import os
+# x=open("task.txt","x")
+# x.close()
+# x=open("task.txt","a")
+# x.write("hello world")
+# x.close()
+# x=open("task.txt","r")
+# print(x.read())
+# print(x.read(3))
+# print(x.readline())
+# x=open("task.txt","w")
+# x.write("hello my world ")
+# os.remove("task2.txt")
+# os.rmdir("task2.txt")
+
